@@ -38,7 +38,7 @@ Häufig genutzte Metalle sind:
 `Beispiel`
 
 See <<_usage>>. +
-See <<_usage>>.
+See <<usage>>.
 See <<_usage>>.
 . [[step-1]]Download the software
 
