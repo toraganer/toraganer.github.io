@@ -2,7 +2,7 @@
 
 == Usage
 
-. Tabellen <<_tables>>
+. Tabellen <<tables>>
 . Tabellen <<CSVTable>>
 
 test <<step-1>> test
